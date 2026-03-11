@@ -71,6 +71,6 @@ The main code reads sensors and controls the fan:
 
 ## Credits
 
-- Dennis Muthuri Mwathe
-- Supervisor: Masika
+- Tranee:Dennis Muthuri Mwathe
+- Supervisor:Stephanie Masika
 
