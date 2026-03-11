@@ -36,7 +36,7 @@ The Smart Compost Monitoring System is an automated monitoring solution for comp
 | Parameter | Threshold | Action |
 |-----------|-----------|--------|
 | Temperature | 60°C | Fan ON if > 70°C |
-| Gas Level | 300 | Fan ON if > 300 |
+| Gas Level | 200 | Fan ON if > 300 |
 | Soil Moisture | 60% | Display DRY if > 80% |
 
 ## Status Messages
