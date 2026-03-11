@@ -381,8 +381,8 @@ For issues or questions:
 
 ## 15. CREDITS
 
-**Developers:
+Developers:
 - Dennis Muthuri Mwathe
 
-**Supervisor:**
+Supervisor:
 - Stephanie Masika
